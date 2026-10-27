@@ -1,0 +1,37 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment (jangan pernah commit API key)
+.env
+.env.*
+!.env.example
+
+# Index hasil generate (dibuat ulang dengan 02_build_index.py)
+index/
+
+# Node / frontend
+web/node_modules/
+web/dist/
+web/dist-ssr/
+web/*.tsbuildinfo
+node_modules/
+dist/
+*.local
+
+# Log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.sw?

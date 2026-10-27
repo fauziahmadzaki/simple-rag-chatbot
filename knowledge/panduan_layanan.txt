@@ -1,0 +1,26 @@
+PANDUAN LAYANAN MAHASISWA - DOKUMEN CONTOH PRAKTIKUM
+Dokumen ini adalah dokumen dummy untuk pembelajaran RAG. Seluruh aturan dan jadwal di bawah hanya berlaku pada skenario latihan, bukan kebijakan resmi perguruan tinggi.
+
+LAYANAN SURAT AKTIF KULIAH
+Permohonan surat aktif kuliah diajukan melalui portal Akademik Demo. Mahasiswa mengunggah kartu mahasiswa dan mengisi tujuan penggunaan surat. Dalam dokumen contoh ini, waktu penyelesaian adalah dua hari kerja setelah berkas dinyatakan lengkap.
+
+LAYANAN PEMINJAMAN LABORATORIUM
+Peminjaman laboratorium pemrograman dilakukan dengan mengajukan formulir kepada pengelola laboratorium paling lambat tiga hari kerja sebelum tanggal penggunaan. Kegiatan yang berlangsung setelah pukul 17.00 harus disertai persetujuan dosen pendamping.
+
+JAM OPERASIONAL LABORATORIUM
+Pada skenario latihan, laboratorium pemrograman beroperasi Senin sampai Jumat pukul 08.00-17.00. Laboratorium tutup pada Sabtu, Minggu, dan hari libur. Mahasiswa wajib mengembalikan perangkat ke tempat semula sebelum meninggalkan ruangan.
+
+PENDAFTARAN KONSULTASI AKADEMIK
+Konsultasi dengan dosen pembimbing akademik dijadwalkan melalui email institusi. Mahasiswa wajib menyertakan nama, nomor induk mahasiswa, topik konsultasi, dan dua pilihan waktu. Jawaban konfirmasi diberikan paling lambat tiga hari kerja pada skenario latihan.
+
+PROSEDUR LAPORAN KERUSAKAN
+Apabila menemukan komputer laboratorium bermasalah, mahasiswa mencatat nomor perangkat, waktu kejadian, dan deskripsi gejala. Laporan disampaikan melalui formulir Helpdesk Demo. Mahasiswa tidak diperkenankan membongkar perangkat tanpa izin teknisi.
+
+ATURAN PEMINJAMAN PERANGKAT
+Peminjaman perangkat untuk kegiatan pembelajaran memerlukan persetujuan petugas inventaris. Lama peminjaman maksimal dua hari kalender dan perpanjangan harus diajukan sebelum masa pinjam berakhir. Denda keterlambatan tidak ditentukan dalam dokumen contoh ini.
+
+KEGIATAN PENGENALAN SISTEM
+Mahasiswa baru wajib mengikuti sesi pengenalan sistem akademik sebelum menggunakan portal Akademik Demo. Sesi latihan dilaksanakan pada pekan pertama perkuliahan. Tanggal pasti, nomor ruang, dan nama pemateri belum tercantum dalam dokumen ini.
+
+KONTAK PERTANYAAN AKADEMIK
+Untuk pertanyaan tentang administrasi akademik dalam studi kasus latihan, mahasiswa diarahkan ke email akademik-demo@example.org. Alamat ini hanya contoh dan tidak boleh digunakan sebagai alamat layanan resmi.
